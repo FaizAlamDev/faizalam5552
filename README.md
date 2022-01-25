@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @faizalam5552
+- 👋 Hi, I’m @faizalamdev
 - 👀 I’m interested in coding, web programming, bash scripting.
-- 🌱 I’m currently learning the MERN stack.
+- 🌱 I’m currently learning Java and Devops.
 - 📫 To reach me, you can email me on faizalam9883@protonmail.com
 
 <!---
