@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizalamdev
-- 👀 I’m a Java Programmer and a coding enthusiast.
-- 🌱 I have made projects on the MERN stack.
-- ☁️ I'm a beginner in Google Cloud Platform and Devops.
+- 👀 I’m a coding enthusiast.
+- 🌱 My Primary interest is the web.
+- ☁️ I know React, TypeScript, NodeJS and Java.
 - 📫 To reach me, you can email me on faizalam9883@gmail.com
 
 <!---
